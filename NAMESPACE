@@ -1,0 +1,4 @@
+useDynLib(GSplicing)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp)
+export(gsplicing, generate.group, gsplicingCpp)

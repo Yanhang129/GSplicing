@@ -1,0 +1,22 @@
+Package: GSplicing
+Type: Package
+Title: Best Subset of Groups Selection in Linear Model
+Version: 0.1.0
+Author@R: c( person(given = "Yanhang Zhang", family = "Zhang", email =
+        "zhangyh93@mail3.sysu.edu.cn", role = c("aut", "cre")))
+Author: Yanhang Zhang [aut, cre],
+  Wang Yifan [aut, cre],
+  Zhao Xirui [aut, cre]
+Maintainer: Yanhang Zhang <zhangyh98@ruc.edu.cn>
+Description: An implementation of best subset of groups selection (BSGS) in linear model via the splicing approach.
+License: GPL-3
+Depends: R (>= 3.5.0)
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 1.0.3), Matrix(>= 1.2-6), MASS
+LinkingTo: Rcpp, RcppEigen
+RoxygenNote: 7.1.2
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+NeedsCompilation: yes
+Packaged: 2021-11-24 10:17:19 UTC; zhangyanhang
