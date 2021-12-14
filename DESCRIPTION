@@ -3,7 +3,7 @@ Type: Package
 Title: Best Subset of Groups Selection in Linear Model
 Version: 0.1.0
 Author@R: c( person(given = "Yanhang Zhang", family = "Zhang", email =
-        "zhangyh93@mail3.sysu.edu.cn", role = c("aut", "cre")))
+        "zhangyh98@ruc.edu.cn", role = c("aut", "cre")))
 Author: Yanhang Zhang [aut, cre],
   Wang Yifan [aut, cre],
   Zhao Xirui [aut, cre]
